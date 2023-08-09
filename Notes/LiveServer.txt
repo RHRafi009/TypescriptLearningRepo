@@ -1,0 +1,7 @@
+To run a html file in server => 
+    * Right click on the file and select Run with Live Server
+    * Shortcut -> Alt+L Alt+O 
+
+To stop live server =>
+    * Right click on the file and select Stop Live Server
+    * Shortcut -> Alt+L Alt+C
