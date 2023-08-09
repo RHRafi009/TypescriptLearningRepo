@@ -1,0 +1,7 @@
+To compile a ts file => tsc <fileName>.ts
+
+To run a js file => node <fileName>.js
+
+-- Remember to install ts-node via npm first
+-- To install ts-node => npm install -g ts-node
+To compile and run a ts file => ts-node <fileName>.ts
